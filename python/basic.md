@@ -297,7 +297,7 @@ Try your environment:
 {id: what-is-programming}
 
 * Use some language to tell the computer what to do.
-* Like a cooking recepie it has step-by-step instructions.
+* Like a cooking recipe it has step-by-step instructions.
 * Taking a complex problem and dividing it into small steps a computer can do.
 
 
@@ -308,7 +308,7 @@ Try your environment:
 * A computer CPU is created from transistors, 1 and 0 values. (aka. bits)
 * Its language consists of numbers. (e.g 37 means move the content of ax register to bx register)
 * English? too complex, too much ambiguity.
-* Programming languages are in-beteen.
+* Programming languages are in-between.
 
 
 
@@ -345,9 +345,9 @@ Try your environment:
 
 
 * Programming languages have a lot less words, but they are very strict on the grammar (syntax).
-* A mising comma can break your code.
+* A missing comma can break your code.
 * A missing space will change the meaning of your code.
-* An incorreect word can ruin your day.
+* An incorrect word can ruin your day.
 
 
 
@@ -361,7 +361,7 @@ Try your environment:
 ![](examples/basics/show_types.err)
 
 * Strings must be enclosed in quotes.
-* Numbers must be NOT enclosed in quotes.
+* Numbers must NOT be enclosed in quotes.
 
 
 
